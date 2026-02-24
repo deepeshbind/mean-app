@@ -86,17 +86,20 @@ Every push to `main` triggers the pipeline which builds, pushes, and redeploys a
 
 ### CI/CD Pipeline Execution
 
-![CI/CD Pipeline](./screenshots/cicd-pipeline.png)
+<img width="1470" height="879" alt="Screenshot 2026-02-24 at 6 26 48 PM" src="https://github.com/user-attachments/assets/58a7099f-dc4e-4df7-9d97-60062811aeb5" />
+<img width="1470" height="879" alt="Screenshot 2026-02-24 at 6 27 10 PM" src="https://github.com/user-attachments/assets/06e99aef-3d73-4157-b12d-c14f136a57dd" />
 
 ### Docker Image Build & Push
 
-![Docker Hub Images](./screenshots/docker-hub.png)
+<img width="1470" height="918" alt="Screenshot 2026-02-24 at 6 28 35 PM" src="https://github.com/user-attachments/assets/27fb6b81-dc49-4c21-9cb6-c7b3a49fd90d" />
 
 ### Application UI
 
-![Application UI](./screenshots/app-ui.png)
+<img width="1470" height="881" alt="Screenshot 2026-02-24 at 8 43 37 PM" src="https://github.com/user-attachments/assets/dec677aa-a1aa-49d0-aa68-5e1ab380f49e" />
 
 ### Nginx & Infrastructure
 
-![Infrastructure](./screenshots/infrastructure.png)
+<img width="736" height="459" alt="Screenshot 2026-02-24 at 6 29 59 PM" src="https://github.com/user-attachments/assets/2270f33c-a069-4bef-9cd7-8d6f4d27e7c4" />
+<img width="1470" height="956" alt="Screenshot 2026-02-24 at 6 31 08 PM" src="https://github.com/user-attachments/assets/c0479cb4-10c1-4e44-9467-7cc92065a5ac" />
+
 
