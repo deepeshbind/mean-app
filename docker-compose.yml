@@ -18,6 +18,7 @@ services:
       - mongodb
     environment:
       - NODE_ENV=production
+      - MONGO_URI=mongodb://mongodb:27017/dd_db
 
   frontend:
     image: dufferdeepu/mean-frontend:latest
