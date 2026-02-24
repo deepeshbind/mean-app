@@ -44,6 +44,6 @@ jobs:
           script: |
             mkdir -p ~/mean-app
             cd ~/mean-app
-            curl -o docker-compose.yml https://raw.githubusercontent.com/${{ github.repository }}/main/docker-compose.yml
+            curl -o docker-compose.yml https://raw.githubusercontent.com/deepeshbind/mean-app/main/docker-compose.yml
             docker-compose pull
-            docker-compose up -d
+            docker-compose up -d --remove-orphans
